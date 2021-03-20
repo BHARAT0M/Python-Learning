@@ -1,7 +1,7 @@
 # Python-Learning
 Few awesome beginner-friendly projects in Python.
 
-## 1.)  Casear Cipher
+## 1.)  Caesar Cipher
  A cipher is an algorithm for performing encryption (and the reverse, decryption).
  This image is output for **Encryption** :-
 
